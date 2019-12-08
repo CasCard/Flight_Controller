@@ -1,5 +1,4 @@
 
-/*ESC calibration sketch; author: ELECTRONOOBS */
 #include <Servo.h>
 
 #define MAX_SIGNAL 2000
@@ -11,9 +10,6 @@ Servo motor;
 
 void setup() {
   Serial.begin(9600);
-  Serial.println("Don't forget to subscribe!");
-  Serial.println("ELECTRONOOBS ESC calibration...");
-  Serial.println(" ");
   delay(1500);
   Serial.println("Program begin...");
   delay(1000);
