@@ -1,5 +1,7 @@
 # Flight Controller #
 
+You can see few flight attempt and controller videos ![here](https://drive.google.com/drive/folders/1n47UaSTP3HyPnfKxreSLd4t1mSBWviDk?usp=sharing)
+
 A simple arduino based flight controller that uses MPU6050 Gyro-Accelerometer and NRF24L01 transmission-Reciever module.
 
 ## Use Case ##
