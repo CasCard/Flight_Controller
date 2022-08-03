@@ -1,4 +1,6 @@
 # Flight Controller #
+![IMG_20191205_024214](https://user-images.githubusercontent.com/13176032/182672958-482f1dad-bd53-4b51-935f-3538ec2e7998.jpg)
+
 
 You can see few flight attempt and controller videos [here](https://drive.google.com/drive/folders/1n47UaSTP3HyPnfKxreSLd4t1mSBWviDk?usp=sharing)
 
